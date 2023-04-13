@@ -1,2 +1,2 @@
-# design_patterns_in_python
+## Design Patterns in Python
 Tutorials and implementations of design patterns in python.
